@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
-# This file is part of calibrate-line-scanning-camera
+# This file is part of calibrate-line-camera
 # Copyright (c) 2011 The University of Sydney
 # All rights reserved.
 #
